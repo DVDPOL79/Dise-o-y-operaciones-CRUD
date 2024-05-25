@@ -1,0 +1,62 @@
+
+  {
+    "grupo": "A",
+    "equipo": "Argentina",
+    "partidos_jugados": 3,
+    "partidos_ganados": 2,
+    "partidos_empatados": 1,
+    "partidos_perdidos": 0,
+    "goles_a_favor": 5,
+    "goles_en_contra": 2,
+    "diferencia_de_goles": 3,
+    "puntos": 7
+  },
+  {
+    "grupo": "A",
+    "equipo": "Brasil",
+    "partidos_jugados": 3,
+    "partidos_ganados": 1,
+    "partidos_empatados": 1,
+    "partidos_perdidos": 1,
+    "goles_a_favor": 4,
+    "goles_en_contra": 3,
+    "diferencia_de_goles": 1,
+    "puntos": 4
+  },
+  {
+    "grupo": "B",
+    "equipo": "Portugal",
+    "partidos_jugados": 3,
+    "partidos_ganados": 3,
+    "partidos_empatados": 0,
+    "partidos_perdidos": 0,
+    "goles_a_favor": 6,
+    "goles_en_contra": 1,
+    "diferencia_de_goles": 5,
+    "puntos": 9
+  },
+  {
+    "grupo": "B",
+    "equipo": "Bélgica",
+    "partidos_jugados": 3,
+    "partidos_ganados": 2,
+    "partidos_empatados": 0,
+    "partidos_perdidos": 1,
+    "goles_a_favor": 5,
+    "goles_en_contra": 3,
+    "diferencia_de_goles": 2,
+    "puntos": 6
+  },
+  {
+    "grupo": "B",
+    "equipo": "Polonia",
+    "partidos_jugados": 3,
+    "partidos_ganados": 0,
+    "partidos_empatados": 0,
+    "partidos_perdidos": 3,
+    "goles_a_favor": 1,
+    "goles_en_contra": 6,
+    "diferencia_de_goles": -5,
+    "puntos": 0
+  }
+
