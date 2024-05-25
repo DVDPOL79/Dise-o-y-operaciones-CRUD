@@ -1,0 +1,37 @@
+
+  {
+    "equipo_local": "Argentina",
+    "equipo_visitante": "Brasil",
+    "fecha": "2022-11-15",
+    "goles_local": 2,
+    "goles_visitante": 1
+  },
+  {
+    "equipo_local": "Portugal",
+    "equipo_visitante": "Bélgica",
+    "fecha": "2022-11-16",
+    "goles_local": 1,
+    "goles_visitante": 0
+  },
+  {
+    "equipo_local": "Brasil",
+    "equipo_visitante": "Argentina",
+    "fecha": "2022-11-18",
+    "goles_local": 1,
+    "goles_visitante": 2
+  },
+  {
+    "equipo_local": "Bélgica",
+    "equipo_visitante": "Polonia",
+    "fecha": "2022-11-19",
+    "goles_local": 3,
+    "goles_visitante": 1
+  },
+  {
+    "equipo_local": "Polonia",
+    "equipo_visitante": "Portugal",
+    "fecha": "2022-11-20",
+    "goles_local": 0,
+    "goles_visitante": 2
+  }
+
